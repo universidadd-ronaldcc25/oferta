@@ -2,35 +2,59 @@
 
 Bienvenidos al portal oficial de la oferta académica de la **Universidad Técnica Particular de Loja (UTPL)**. Este sitio está estructurado para permitir una consulta ágil y precisa de las carreras disponibles y los títulos académicos que otorga nuestra institución.
 
-## Organización por Facultades
-
-Seleccione una facultad para conocer su oferta académica específica:
-
-* [Facultad de Ciencias Económicas y Empresariales](economicas.md)
-* [Facultad de Ciencias Exactas y Naturales](exactas.md)
-* [Facultad de Ingenierías y Arquitectura](ingenierias.md)
-* [Facultad de Ciencias Sociales, Educación y Humanidades](sociales.md)
-* [Facultad de Ciencias de la Salud](salud.md)
+A continuación, se detalla nuestra oferta organizada por facultades:
 
 ---
 
-## Gestión del Portal (Sección Técnica)
+## Facultad de Ciencias Económicas y Empresariales
 
-Este sitio está construido con [MkDocs](https://www.mkdocs.org) para garantizar una gestión de contenido eficiente e institucional.
+| Carrera | Título que otorga |
+|---|---|
+| Administración de Empresas | Licenciado/a en Administración de Empresas |
+| Contabilidad y Auditoría | Licenciado/a en Contabilidad y Auditoría |
+| Economía | Economista |
+| Finanzas | Licenciado/a en Finanzas |
 
-### Comandos de Administración
+---
 
-* `mkdocs serve` - Inicia el servidor local de pruebas (visualiza los cambios en tiempo real).
-* `mkdocs build` - Compila el sitio y genera los archivos estáticos listos para producción.
-* `mkdocs -h` - Muestra la ayuda de comandos.
+## Facultad de Ciencias Exactas y Naturales
 
-### Estructura del Proyecto Institucional
+| Carrera | Título que otorga |
+|---|---|
+| Agronegocios | Ingeniero/a en Agronegocios |
+| Alimentos | Ingeniero/a de Alimentos |
+| Biología | Biólogo/a |
+| Gestión Ambiental | Ingeniero/a en Gestión Ambiental |
 
-```text
-mkdocs.yml            # Archivo de configuración (aquí se define la navegación lateral).
-docs/
-    index.md          # Esta página principal de bienvenida.
-    economicas.md     # Tabla de carreras de Economía.
-    ingenierias.md    # Tabla de carreras de Ingeniería.
-    salud.md          # Tabla de carreras de Salud.
-    ...               # Otras facultades.
+---
+
+## Facultad de Ingenierías y Arquitectura
+
+| Carrera | Título que otorga |
+|---|---|
+| Arquitectura | Arquitecto/a |
+| Computación | Ingeniero/a en Computación |
+| Ingeniería Civil | Ingeniero/a Civil |
+| Tecnologías de la Información | Ingeniero/a en Tecnologías de la Información |
+
+---
+
+## Facultad de Ciencias Sociales, Educación y Humanidades
+
+| Carrera | Título que otorga |
+|---|---|
+| Comunicación | Licenciado/a en Comunicación |
+| Derecho | Abogado/a |
+| Educación Básica | Licenciado/a en Ciencias de la Educación Básica |
+| Psicología | Psicólogo/a |
+
+---
+
+## Facultad de Ciencias de la Salud
+
+| Carrera | Título que otorga |
+|---|---|
+| Enfermería | Licenciado/a en Enfermería |
+| Fisioterapia | Licenciado/a en Fisioterapia |
+| Medicina | Médico/a |
+| Nutrición y Dietética | Licenciado/a en Nutrición y Dietética |
